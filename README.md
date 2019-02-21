@@ -1,2 +1,3 @@
 # hello-world
 Currently completing a 'how to use GitHub' tutorial...
+Ok so I'm 29, studying an Open University course in Computing. Hoping to specialise in Software Development. I'm hoping to use GitHub as a sort of portfolio of my work.
